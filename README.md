@@ -12,7 +12,7 @@
 
 >👁️‍🗨️ Always keeping good practices while coding like Clean Code (DRY & KISS) and SOLID.
 
->🏛️ I have previously worked as an Architect Project Manager, which allows me to have extensive knowledge in design, user experience and multidisciplinary teamwork (using AutoCAD, PhotoShop & MS Project).
+>🏛️ I have previously worked as an Architect Project Manager, which allows me to have extensive knowledge in design, user experience and multidisciplinary teamwork (using AutoCAD, PhotoShop, SkethcUp & MS Project).
 
 &nbsp;
 
