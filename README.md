@@ -4,7 +4,7 @@
 
 >🔘 Studying a Full Stack Bootcamp at Factoria F5 (Barcelona) with passion, determination and always open minded.
 
->⚙️ Getting knowledges about HTML, CSS, JavaScript & React & Styled-Components, Java & Spring Boot & JPA, TDD and OOP.
+>⚙️ Getting knowledges about HTML5, CSS3, JavaScript6 & React & Styled-Components & Axios, Java & Spring Boot & JPA & Data Base, TDD and OOP.
 
 >🔧 Using tools as Figma, Trello, Postman, MockApi, Mockito.
 
