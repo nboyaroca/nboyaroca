@@ -6,7 +6,7 @@
 
 >⚙️ Getting knowledges about HTML5, CSS3, JavaScript6 & React & Styled-Components & Axios, Java & Spring Boot & JPA & Data Base, TDD and OOP.
 
->🔧 Using tools as Figma, Trello, Postman, MockApi, Mockito.
+>🔧 Using tools as Figma, Trello, Postman, MockApi, JUnit & Mockito.
 
 >📄 Applying agile methodologies such as kanban, scrum and doing pair programming.
 
