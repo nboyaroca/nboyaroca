@@ -2,7 +2,7 @@
 
 &nbsp;
 
->🔘 Studying a Full Stack Bootcamp at Factoria F5 (Barcelona) with passion, determination and always open minded.
+>🔘 Studying a <strong>Web Developer</strong> Full Stack Bootcamp at Factoria F5 (Barcelona) with passion, determination and always open minded.
 
 >⚙️ Getting knowledges about HTML5, CSS3, JavaScript6 & React & Styled-Components & Axios, Java & Spring Boot & JPA & Data Base, TDD and OOP.
 
