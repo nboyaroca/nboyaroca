@@ -4,9 +4,9 @@
 
 >🔘 Studying a <strong>Web Developer</strong> Full Stack Bootcamp at Factoria F5 (Barcelona) with passion, determination and always open minded.
 
->⚙️ Getting <strong>knowledges</strong> about HTML5, CSS3, JavaScript6 & React & Styled-Components & Axios, Java & Spring Boot & JPA & Data Base, TDD and OOP.
+>⚙️ Getting <strong>knowledges</strong> about HTML5, CSS3, JavaScript6 & React & Styled-Components & Axios, Java & Spring Boot & Spring Data & JPA, Data Base SQL, ApiRest design, TDD and OOP.
 
->🔧 Using <strong>tools</strong> as Figma, Trello, Postman, MockApi, JUnit & Mockito.
+>🔧 Using <strong>tools</strong> as Figma, Trello, Postman, MockApi, Jest, JUnit5 & Mockito.
 
 >📄 Applying <strong>agile methodologies</strong> such as kanban, scrum and doing pair programming.
 
