@@ -4,15 +4,15 @@
 
 >🔘 Studying a <strong>Web Developer</strong> Full Stack Bootcamp at Factoria F5 (Barcelona) with passion, determination and always open minded.
 
->⚙️ Getting knowledges about HTML5, CSS3, JavaScript6 & React & Styled-Components & Axios, Java & Spring Boot & JPA & Data Base, TDD and OOP.
+>⚙️ Getting <strong>knowledges</strong> about HTML5, CSS3, JavaScript6 & React & Styled-Components & Axios, Java & Spring Boot & JPA & Data Base, TDD and OOP.
 
->🔧 Using tools as Figma, Trello, Postman, MockApi, JUnit & Mockito.
+>🔧 Using <strong>tools</strong> as Figma, Trello, Postman, MockApi, JUnit & Mockito.
 
->📄 Applying agile methodologies such as kanban, scrum and doing pair programming.
+>📄 Applying <strong>agile methodologies</strong> such as kanban, scrum and doing pair programming.
 
->👁️‍🗨️ Always keeping good practices while coding like Clean Code (DRY & KISS) and SOLID.
+>👁️‍🗨️ Always keeping <strong>good practices</strong> while coding like Clean Code (DRY & KISS) and SOLID.
 
->🏛️ I have previously worked as an Architect Project Manager, which allows me to have extensive knowledge in design, user experience and multidisciplinary teamwork (using AutoCAD, PhotoShop, SkethcUp & MS Project).
+>🏛️ I have previously worked as an <strong>Architect Project Manager</strong>, which allows me to have extensive knowledge in design, user experience and multidisciplinary teamwork (using AutoCAD, PhotoShop, SkethcUp & MS Project).
 
 &nbsp;
 
