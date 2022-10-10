@@ -47,7 +47,6 @@
 <a href="https://slack.com/intl/es-es/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://user-images.githubusercontent.com/102729704/194945715-3160971a-8b95-47ec-b482-859cdb4af0c1.png" alt="vscode" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://user-images.githubusercontent.com/102729704/194945833-ce59fc50-43f7-44bd-8712-d4a94a366c08.png" alt="intelliJ" width="40" height="40"/></a>
-
 </p>
 
 &nbsp;
@@ -56,17 +55,11 @@
 
 &nbsp;
 
-Send me an e-mail at **nboyaroca@gmail.com**
-
-&nbsp;
-
-<h3 align="left">Connect with me on</h3>
+<h4 align="left">Connect with me on</h4>
 <p align="left">
 <a href="https://linkedin.com/in/nboyaroca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nboyaroca" height="30" width="40" /></a>
 </p>
 
 &nbsp;
 
-<h3 align="left">Or send me an e-mail at</h3>
-&nbsp;
-<p align="left">**nboyaroca@gmail.com**</p>
+Or send me an e-mail at **nboyaroca@gmail.com**
